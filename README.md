@@ -5,11 +5,11 @@
 
 
 
-* calcindex.html
+* index.html
 
-* calcscript.js
+* script.js
 
-* calcstyle.css
+* style.css
 
 
 
