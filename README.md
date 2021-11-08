@@ -1,7 +1,7 @@
 # Calculator-using-HTML-CSS-and-JS
 
 
->This Repositary contains three files: 
+>This Repositary contains four files: 
 
 
 
@@ -11,6 +11,8 @@
 
 * style.css
 
+* readme.md
 
 
-The style sheet contains the necessary stylings and the calcscript file contains the necessary functions to implement the calculator.
+
+The style.css contains the necessary stylings and the script.js file contains the necessary functions to implement the calculator.
